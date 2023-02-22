@@ -1,1 +1,3 @@
-# x86-Assembly
+# Resources
+
+1. Ahmed Sallam Playlist 
